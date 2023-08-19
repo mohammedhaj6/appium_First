@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T13:42:47 EEST" name="Default suite" finished-at="2023-08-19T13:43:07 EEST" duration-ms="20126">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T13:42:47 EEST" name="Default test" finished-at="2023-08-19T13:43:07 EEST" duration-ms="20126">
+      <class name="AppiumFirst">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:AppiumFirst@557caf28]" started-at="2023-08-19T13:42:47 EEST" name="mySetup" finished-at="2023-08-19T13:42:47 EEST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myFirstTest()[pri:0, instance:AppiumFirst@557caf28]" started-at="2023-08-19T13:42:47 EEST" name="myFirstTest" finished-at="2023-08-19T13:43:07 EEST" duration-ms="20047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method is-config="true" signature="Finsh()[pri:0, instance:AppiumFirst@557caf28]" started-at="2023-08-19T13:43:07 EEST" name="Finsh" finished-at="2023-08-19T13:43:07 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finsh -->
+      </class> <!-- AppiumFirst -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
